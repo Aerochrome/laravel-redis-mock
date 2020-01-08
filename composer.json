@@ -1,5 +1,5 @@
 {
-    "name": "josiasmontag/laravel-redis-mock",
+    "name": "aerochrome/laravel-redis-mock",
     "description": "This Laravel package provides a Redis mock for your tests",
     "keywords": ["localization", "language", "laravel", "php"],
     "homepage": "https://github.com/josiasmontag/laravel-redis-mock",
